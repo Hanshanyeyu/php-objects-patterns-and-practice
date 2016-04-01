@@ -20,7 +20,9 @@
 			<li><a href="chapter 4/1/1/StaticExample.class.php">4.1.1  静态方法和属性</a></li>
 			<li><a href="chapter 4/1/2/StaticExample.class.php">4.1.2  静态方法和属性与继承者关系</a></li>
 			<li><a href="chapter 4/2/1/ShopProduct.class.php">4.2.1  常量 const </a></li>
-			<li><a href="chapter 4/3/1/ShopProduct.class.php">4.2.1  final </a></li>
+			<li><a href="chapter 4/3/1/ShopProduct.class.php">4.3.1  final </a></li>
+			<li><a href="chapter 4/4/1/BookProduct.class.php">4.4.1  抽象类 Abstract </a></li>
+			<li><a href="chapter 4/5/1/CDProduct.php">4.5.1  接口 Interface </a></li>
 		</ul>
 	</li>
 </ul>
