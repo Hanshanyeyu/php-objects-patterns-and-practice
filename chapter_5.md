@@ -16,7 +16,7 @@
 3. Java 需要依赖包加载类,在Java的安全机制中具有重要意义,PHP则是先加载文件,再声明命名空间.
 
 * 为什么需要命名空间
-1. 类冲突 [5.1.1](5/1/1/index.php)
+1. 类冲突 [5.1.1](chapter 5/1/1/index.php)
 	```
 		Fatal error: Cannot redeclare class Outputter
 	```
@@ -31,11 +31,11 @@
 		class Product extends \Magento\Catalog\Model\AbstractModel {
 		}
 	```
-* 命名空间实例 [5.1.2](5/1/2/index.php)
+* 命名空间实例 [5.1.2](chapter 5/1/2/index.php)
 
-*  自动加载 ``__autoload()`` 实例 [5.2.1](5/2/1/index.php)
+*  自动加载 ``__autoload()`` 实例 [5.2.1](chapter 5/2/1/index.php)
 
-*  声明自动加载方法 ``spl_autoload_register`` 实例 [5.2.1](5/2/1/index.php)
+*  声明自动加载方法 ``spl_autoload_register`` 实例 [5.2.2](chapter 5/2/2/index.php)
 
 	```
 		bool spl_autoload_register 

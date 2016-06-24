@@ -19,4 +19,9 @@
     * [4.7.1  拦截器](chapter 4/7/1/Person.class.php)
     * [4.8.1  __desctruct()](chapter 4/8/1/Person.class.php)
     * [4.9.1  __clone()](chapter 4/9/1/Person.class.php)
+* [第五章 对象工具]
+    * [5.1.1  命名冲突](chapter 5/1/1/index.php)
+    * [5.1.2  命名空间实例](chapter 5/1/2/index.php)
+    * [5.2.1  自动加载 __autoload()](chapter 5/2/1/index.php)
+    * [5.2.2  声明自动加载方法 spl_autoload_register](chapter 5/2/2/index.php)
 
