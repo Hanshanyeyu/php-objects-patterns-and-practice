@@ -30,4 +30,14 @@
 			<li><a href="chapter 4/9/1/Person.class.php">4.9.1   __clone() </a></li>
 		</ul>
 	</li>
+	<li>
+		第5章 对象工具
+		<ul>
+			<li><a href="chapter 5/1/1/index.php">5.1.1 命名冲突</a></li>
+			<li><a href="chapter 5/1/2/index.php">5.1.2 命名空间实例</a></li>
+			<li><a href="chapter 5/2/1/index.php">5.2.1 自动加载 __autoload()</a></li>
+			<li><a href="chapter 5/2/2/index.php">5.2.2 声明自动加载方法 spl_autoload_register</a></li>
+	
+		</ul>
+	</li>
 </ul>
