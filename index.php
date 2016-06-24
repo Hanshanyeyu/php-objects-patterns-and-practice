@@ -23,6 +23,11 @@
 			<li><a href="chapter 4/3/1/ShopProduct.class.php">4.3.1  final </a></li>
 			<li><a href="chapter 4/4/1/BookProduct.class.php">4.4.1  抽象类 Abstract </a></li>
 			<li><a href="chapter 4/5/1/CDProduct.php">4.5.1  接口 Interface </a></li>
+			<li><a href="chapter 4/6/1/Conf.class.php">4.6.1   错误处理 </a></li>
+			<li><a href="chapter 4/6/2/Conf.class.php">4.6.2   错误处理 </a></li>
+			<li><a href="chapter 4/7/1/Person.class.php">4.7.1   拦截器</a></li>
+			<li><a href="chapter 4/8/1/Person.class.php">4.8.1   __desctruct() </a></li>
+			<li><a href="chapter 4/9/1/Person.class.php">4.9.1   __clone() </a></li>
 		</ul>
 	</li>
 </ul>

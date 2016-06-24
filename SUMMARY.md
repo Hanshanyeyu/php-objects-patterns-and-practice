@@ -14,4 +14,9 @@
     * [4.3.1  final](chapter 4/3/1/ShopProduct.class.php)
     * [4.4.1  抽象类 Abstract](chapter 4/4/1/BookProduct.class.php)
     * [4.5.1  接口 Interface](chapter 4/5/1/CDProduct.php)
+    * [4.6.1  xml 读取](chapter 4/6/1/Conf.class.php)
+    * [4.6.2  错误处理](chapter 4/6/1/Conf.class.php)
+    * [4.7.1  拦截器](chapter 4/7/1/Person.class.php)
+    * [4.8.1  __desctruct()](chapter 4/8/1/Person.class.php)
+    * [4.9.1  __clone()](chapter 4/9/1/Person.class.php)
 
