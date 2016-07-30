@@ -37,6 +37,10 @@
 			<li><a href="chapter 5/1/2/index.php">5.1.2 命名空间实例</a></li>
 			<li><a href="chapter 5/2/1/index.php">5.2.1 自动加载 __autoload()</a></li>
 			<li><a href="chapter 5/2/2/index.php">5.2.2 声明自动加载方法 spl_autoload_register</a></li>
+			<li><a href="chapter 5/3/1/index.php">5.3.1 方法调用 call_user_func()</a></li>
+			<li><a href="chapter 5/4/1/index.php">5.4.1 ReflectionClass</a></li>
+			<li><a href="chapter 5/4/2/index.php">5.4.2 PHP 反射实现钩子程序例子</a></li>
+			<li><a href="chapter 5/4/3/Person.php">5.4.3 接口实例自动调用方法</a></li>
 		</ul>
 	</li>
 </ul>
