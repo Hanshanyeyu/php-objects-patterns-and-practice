@@ -39,11 +39,11 @@
 
 *  声明自动加载方法 ``spl_autoload_register`` 实例 [5.2.2](chapter 5/2/2/index.php)
 
-		```
-			bool spl_autoload_register 
-			([ callable $autoload_function [, bool $throw = true [, bool $prepend = false ]]] )
-			
-		```
+	``` 
+		bool spl_autoload_register 
+		([ callable $autoload_function [, bool $throw = true [, bool $prepend = false ]]] )
+		
+	```
 
 	1. **$autoload_function** 
 	 欲注册的自动装载函数。如果没有提供任何参数，则自动注册 *autoload* 的默认实现函数*spl_autoload()*。
@@ -67,22 +67,16 @@
 ###5.4 反射API
 PHP中的反射API与Java中的java.lang.reflect包一样,它是由一系列可以分析的属性/方法和类的内置类组成.
 
-   * 反射的部分类
-        1. **Reflection** 为类的摘要信息提供静态函数export()
-        2. **ReflectionClass** 类的信息和工具
-        3. **ReflectionMethod** 类的方法信息和工具
-        4. **ReflectionParameter** 方法参数信息
-        5. **ReflectionProperty** 类属性信息
-        6. **ReflectionFunction** 函数信息和工具
-        7. **ReflectionExtension**  PHP扩展信息
-        8. **ReflectionException**  错误类信息
+* 反射的部分类
+	1. **Reflection** 为类的摘要信息提供静态函数export()
+	2. **ReflectionClass** 类的信息和工具
+	3. **ReflectionMethod** 类的方法信息和工具
+	4. **ReflectionParameter** 方法参数信息
+	5. **ReflectionProperty** 类属性信息
+	6. **ReflectionFunction** 函数信息和工具
+	7. **ReflectionExtension**  PHP扩展信息
+	8. **ReflectionException**  错误类信息
    
-   * 示例
-        1. [前后置方法实现](chapter 5/4/2/index.php)
-        2. [接口实例自动实例化并调用方法](chapter 5/4/3/index.php)
-   
-   
-    
-
-
-
+* 示例
+	1. [前后置方法实现](chapter 5/4/2/index.php)
+	2. [接口实例自动实例化并调用方法](chapter 5/4/3/index.php)
