@@ -24,4 +24,8 @@
     * [5.1.2  命名空间实例](chapter 5/1/2/index.php)
     * [5.2.1  自动加载 __autoload()](chapter 5/2/1/index.php)
     * [5.2.2  声明自动加载方法 spl_autoload_register](chapter 5/2/2/index.php)
+    * [5.3.1  方法调用 call_user_func()](chapter 5/3/1/index.php)
+    * [5.4.1  反射 ReflectionClass 基本使用](chapter 5/4/1/index.php)
+    * [5.4.2  前后置方法实现](chapter 5/4/2/index.php)
+    * [5.4.3  接口实例自动实例化并自动调用方法](chapter 5/4/3/index.php)
 
