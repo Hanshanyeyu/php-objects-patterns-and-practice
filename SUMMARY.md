@@ -27,5 +27,5 @@
     * [5.3.1  方法调用 call_user_func()](chapter 5/3/1/index.php)
     * [5.4.1  反射 ReflectionClass 基本使用](chapter 5/4/1/index.php)
     * [5.4.2  前后置方法实现](chapter 5/4/2/index.php)
-    * [5.4.3  接口实例自动实例化并自动调用方法](chapter 5/4/3/index.php)
+    * [5.4.3  接口实例自动实例化并自动调用方法](chapter 5/4/3/Person.php)
 
